@@ -8,7 +8,7 @@ $account_links = array();
 $images = array();
 
 //URL encode the query string
-$q = urlencode("CoCo coworking and collaborative");
+$q = urlencode("Your Venues name here");
 
 //request URL
 $request = "http://search.twitter.com/search.atom?q=$q&lang=en";
